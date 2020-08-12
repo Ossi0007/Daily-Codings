@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Ossi0007/Daily_coding.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cuUmOTtOk381S8zexovHgp73Da" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.LogicalOperators" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileLoops.Palindrome" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="userInput.ScannerUserInput" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userInput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCasting.TypeCasting" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeCasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ScannerUserInput" />
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.LogicalOperators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="" />
+      <created>1591378129223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591378129223</updated>
+    </task>
+    <task id="LOCAL-00001" summary="just basic program">
+      <created>1595742749492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595742749492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="just basic program" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="242" width="251" height="273" key="#Notifications" timestamp="1595747044503">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="552" y="242" width="251" height="273" key="#Notifications/0.27.1366.697@0.27.1366.697" timestamp="1595747044503" />
+    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597231520969">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.697@0.27.1366.697" timestamp="1597231520969" />
+    <state x="832" y="62" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1595077837199">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="832" y="62" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.697@0.27.1366.697" timestamp="1595077837199" />
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597234220862">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234220862" />
+    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog" timestamp="1597233162548">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597233162548" />
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1597233812184">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1597233812184" />
+    <state width="1320" height="163" key="GridCell.Tab.0.center" timestamp="1597233812183">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
+    <state width="1320" height="163" key="GridCell.Tab.0.left" timestamp="1597233812183">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
+    <state width="1320" height="163" key="GridCell.Tab.0.right" timestamp="1597233812183">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
+    <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="587" height="198" key="GridCell.Tab.1.bottom/0.27.1366.697@0.27.1366.697" timestamp="1592338622722" />
+    <state width="587" height="198" key="GridCell.Tab.1.center" timestamp="1592338622721">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="587" height="198" key="GridCell.Tab.1.center/0.27.1366.697@0.27.1366.697" timestamp="1592338622721" />
+    <state width="587" height="198" key="GridCell.Tab.1.left" timestamp="1592338622721">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="587" height="198" key="GridCell.Tab.1.left/0.27.1366.697@0.27.1366.697" timestamp="1592338622721" />
+    <state width="587" height="198" key="GridCell.Tab.1.right" timestamp="1592338622722">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="587" height="198" key="GridCell.Tab.1.right/0.27.1366.697@0.27.1366.697" timestamp="1592338622722" />
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1597231837826">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597231837826" />
+    <state x="278" y="111" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595745674344">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="278" y="111" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1595745674344" />
+    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595745540312">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.697@0.27.1366.697" timestamp="1595745540312" />
+    <state x="783" y="127" width="483" height="497" key="dock-window-1" timestamp="1595400519327">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="783" y="127" width="483" height="497" key="dock-window-1/0.27.1366.697@0.27.1366.697" timestamp="1595400519327" />
+    <state x="783" y="127" width="483" height="497" key="dock-window-2" timestamp="1595400519327">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="783" y="127" width="483" height="497" key="dock-window-2/0.27.1366.697@0.27.1366.697" timestamp="1595400519327" />
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1594786272535">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1594786272535" />
+  </component>
+</project>
