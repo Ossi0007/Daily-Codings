@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new" />
+    <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatement/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatement/IfClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatement/NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatement/SwitchBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -57,7 +69,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager" selected="Application.Palindrome">
     <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -137,7 +149,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -190,30 +202,34 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="832" y="62" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.697@0.27.1366.697" timestamp="1595077837199" />
-    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597234220862">
+    <state x="130" y="85" width="1092" height="594" key="DiffContextDialog" timestamp="1597235463756">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234220862" />
-    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog" timestamp="1597233162548">
+    <state x="130" y="85" width="1092" height="594" key="DiffContextDialog/0.27.1366.697@0.27.1366.697" timestamp="1597235463756" />
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597234519558">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597233162548" />
-    <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1597233812184">
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234519558" />
+    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog" timestamp="1597234306323">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="163" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1597233812184" />
-    <state width="1320" height="163" key="GridCell.Tab.0.center" timestamp="1597233812183">
+    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1597235348126">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="163" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
-    <state width="1320" height="163" key="GridCell.Tab.0.left" timestamp="1597233812183">
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1597235348126" />
+    <state width="1320" height="163" key="GridCell.Tab.0.center" timestamp="1597235348124">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="163" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
-    <state width="1320" height="163" key="GridCell.Tab.0.right" timestamp="1597233812183">
+    <state width="1320" height="163" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1597235348124" />
+    <state width="1320" height="163" key="GridCell.Tab.0.left" timestamp="1597235348123">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1597233812183" />
+    <state width="1320" height="163" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1597235348123" />
+    <state width="1320" height="163" key="GridCell.Tab.0.right" timestamp="1597235348125">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1597235348125" />
     <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -230,14 +246,14 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state width="587" height="198" key="GridCell.Tab.1.right/0.27.1366.697@0.27.1366.697" timestamp="1592338622722" />
-    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1597231837826">
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1597235150607">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597231837826" />
-    <state x="278" y="111" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595745674344">
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597235150607" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597235832538">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1595745674344" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1597235832538" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595745540312">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -254,5 +270,9 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1594786272535" />
+    <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597234460976">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser/0.27.1366.697@0.27.1366.697" timestamp="1597234460976" />
   </component>
 </project>
