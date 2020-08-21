@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/VideoEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Youtuber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/P1_ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P1_ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597989100359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new">
+      <created>1598022859788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598022859788</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,10 +294,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597235150607" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597989111030">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598022866712">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1597989111030" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598022866712" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
