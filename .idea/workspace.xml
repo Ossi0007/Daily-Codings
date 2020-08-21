@@ -60,7 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -69,13 +69,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Application.RepairShop">
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.Operators" />
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops2.finalKeyword.MainClass" />
       <module name="Tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operators.*" />
+          <option name="PATTERN" value="oops2.finalKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1_ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P1_ThreeSum" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="typeCasting.TypeCasting" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="typeCasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.P1_ThreeSum" />
         <item itemvalue="Application.RepairShop" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ScannerUserInput" />
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597235921889</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new">
+      <created>1597847699257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597847699257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new">
+      <created>1597943697768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597943697768</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1597943863261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597943863261</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,30 +232,30 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="130" y="85" width="1092" height="594" key="DiffContextDialog/0.27.1366.697@0.27.1366.697" timestamp="1597235463756" />
-    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597234519558">
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597847518116">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234519558" />
+    <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597847518116" />
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog" timestamp="1597234306323">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="410" height="158" key="GridCell.Tab.0.bottom" timestamp="1597845586064">
+    <state width="637" height="158" key="GridCell.Tab.0.bottom" timestamp="1597951084278">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="410" height="158" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1597845586064" />
-    <state width="410" height="158" key="GridCell.Tab.0.center" timestamp="1597845586058">
+    <state width="637" height="158" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1597951084278" />
+    <state width="637" height="158" key="GridCell.Tab.0.center" timestamp="1597951084278">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="410" height="158" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1597845586058" />
-    <state width="410" height="158" key="GridCell.Tab.0.left" timestamp="1597845586050">
+    <state width="637" height="158" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1597951084278" />
+    <state width="637" height="158" key="GridCell.Tab.0.left" timestamp="1597951084277">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="410" height="158" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1597845586050" />
-    <state width="410" height="158" key="GridCell.Tab.0.right" timestamp="1597845586061">
+    <state width="637" height="158" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1597951084277" />
+    <state width="637" height="158" key="GridCell.Tab.0.right" timestamp="1597951084278">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="410" height="158" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1597845586061" />
+    <state width="637" height="158" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1597951084278" />
     <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -255,14 +276,14 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597235150607" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597847402432">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597943871007">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1597847402432" />
-    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595745540312">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1597943871007" />
+    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.697@0.27.1366.697" timestamp="1595745540312" />
+    <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.697@0.27.1366.697" timestamp="1597943656748" />
     <state x="783" y="127" width="483" height="497" key="dock-window-1" timestamp="1595400519327">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -275,10 +296,14 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="0" y="27" width="1356" height="697" key="new project wizard/0.27.1366.697@0.27.1366.697" timestamp="1597493135157" />
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1594786272535">
+    <state x="347" y="163" key="run.anything.popup" timestamp="1597937723194">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1594786272535" />
+    <state x="347" y="163" key="run.anything.popup/0.27.1366.697@0.27.1366.697" timestamp="1597937723194" />
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1597850075042">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1597850075042" />
     <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597234460976">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
