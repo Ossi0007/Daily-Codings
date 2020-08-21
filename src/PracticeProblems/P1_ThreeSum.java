@@ -12,7 +12,8 @@ public class P1_ThreeSum {
         for(int i=0;i<x;i++)
             n[i]=sc.nextInt();
         Arrays.sort(n);
-        for (int i=0;i<x-2;i++){
+        int i=0;
+        while (i<x-2){
             int j=i+1;
             int k=x-1;
             while (j < k) {
@@ -25,6 +26,7 @@ public class P1_ThreeSum {
                     break;
                 }
             }
+            i++;
         }
     }
 }
