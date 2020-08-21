@@ -1,9 +1,9 @@
 package oops2.interfaces;
 
-public class Person implements Student,Youtuber{
+public class Main_Person implements Student,Youtuber{
 
     public static void main(String[] args) {
-        Person obj=new Person();
+        Main_Person obj=new Main_Person();
 //        obj.makeVideo();
         obj.study();
         obj.uploadVideo();
