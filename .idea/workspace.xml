@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/VideoEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops2/interfaces/Youtuber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/P2_CandyProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +68,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P2_CandyProblem">
     <configuration name="MainC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops2.interfaces.MainC" />
       <module name="Tutorials" />
@@ -126,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepairShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops2.abstraction.RepairShop" />
+    <configuration name="P2_CandyProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P2_CandyProblem" />
       <module name="Tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops2.abstraction.*" />
+          <option name="PATTERN" value="PracticeProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2_CandyProblem" />
         <item itemvalue="Application.Main_Person" />
         <item itemvalue="Application.MainC" />
         <item itemvalue="Application.P1_ThreeSum" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.RepairShop" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598022859788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new">
+      <created>1598035898490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598035898490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new">
+      <created>1598035959088</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598035959088</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,22 +269,22 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="190" height="158" key="GridCell.Tab.0.bottom" timestamp="1598020460579">
+    <state width="1320" height="156" key="GridCell.Tab.0.bottom" timestamp="1598109679279">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="190" height="158" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598020460579" />
-    <state width="190" height="158" key="GridCell.Tab.0.center" timestamp="1598020460578">
+    <state width="1320" height="156" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598109679279" />
+    <state width="1320" height="156" key="GridCell.Tab.0.center" timestamp="1598109679279">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="190" height="158" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598020460578" />
-    <state width="190" height="158" key="GridCell.Tab.0.left" timestamp="1598020460578">
+    <state width="1320" height="156" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598109679279" />
+    <state width="1320" height="156" key="GridCell.Tab.0.left" timestamp="1598109679278">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="190" height="158" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598020460578" />
-    <state width="190" height="158" key="GridCell.Tab.0.right" timestamp="1598020460579">
+    <state width="1320" height="156" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598109679278" />
+    <state width="1320" height="156" key="GridCell.Tab.0.right" timestamp="1598109679279">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="190" height="158" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598020460579" />
+    <state width="1320" height="156" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598109679279" />
     <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -290,14 +301,14 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state width="587" height="198" key="GridCell.Tab.1.right/0.27.1366.697@0.27.1366.697" timestamp="1592338622722" />
-    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1597235150607">
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1598105154269">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1597235150607" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598022866712">
+    <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1598105154269" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598035964447">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598022866712" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598035964447" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -310,6 +321,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="783" y="127" width="483" height="497" key="dock-window-2/0.27.1366.697@0.27.1366.697" timestamp="1595400519327" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1598105056541">
+      <screen x="0" y="27" width="1366" height="697" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.27.1366.697@0.27.1366.697" timestamp="1598105056541" />
     <state x="0" y="27" width="1356" height="697" key="new project wizard" timestamp="1597493135157">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -318,10 +333,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="347" y="163" key="run.anything.popup/0.27.1366.697@0.27.1366.697" timestamp="1597937723194" />
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1597850075042">
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1598107449251">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1597850075042" />
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1598107449251" />
     <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597234460976">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
