@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
       <change afterPath="$PROJECT_DIR$/src/PracticeProblems/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/P3_Sum3_plus_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P3_Sum3_plus_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.P3_Sum3_plus_33">
+  <component name="RunManager" selected="Application.MyArrayList">
     <configuration name="MainC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops2.interfaces.MainC" />
       <module name="Tutorials" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1_ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P1_ThreeSum" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lists.MyArrayList" />
       <module name="Tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyArrayList" />
         <item itemvalue="Application.P3_Sum3_plus_33" />
         <item itemvalue="Application.P2_CandyProblem" />
         <item itemvalue="Application.Main_Person" />
         <item itemvalue="Application.MainC" />
-        <item itemvalue="Application.P1_ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598351245946</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new">
+      <created>1598351607049</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598351607049</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,22 +290,22 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="1098" height="158" key="GridCell.Tab.0.bottom" timestamp="1598351175135">
+    <state width="410" height="164" key="GridCell.Tab.0.bottom" timestamp="1598363467288">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1098" height="158" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598351175135" />
-    <state width="1098" height="158" key="GridCell.Tab.0.center" timestamp="1598351175135">
+    <state width="410" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598363467288" />
+    <state width="410" height="164" key="GridCell.Tab.0.center" timestamp="1598363467287">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1098" height="158" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598351175135" />
-    <state width="1098" height="158" key="GridCell.Tab.0.left" timestamp="1598351175134">
+    <state width="410" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598363467287" />
+    <state width="410" height="164" key="GridCell.Tab.0.left" timestamp="1598363467287">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1098" height="158" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598351175134" />
-    <state width="1098" height="158" key="GridCell.Tab.0.right" timestamp="1598351175135">
+    <state width="410" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598363467287" />
+    <state width="410" height="164" key="GridCell.Tab.0.right" timestamp="1598363467288">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1098" height="158" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598351175135" />
+    <state width="410" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598363467288" />
     <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -319,10 +326,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1598105154269" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598351254366">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598351612349">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598351254366" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598351612349" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
