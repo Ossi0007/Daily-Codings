@@ -1,4 +1,4 @@
-package lists;
+package lists.arrayList;
 
 public class Pair<X,T,G> {
     X x;
