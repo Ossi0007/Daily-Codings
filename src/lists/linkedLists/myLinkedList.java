@@ -4,7 +4,7 @@ public class myLinkedList<E> {
     Node<E>  head;
 
     void add(E data){
-        Node<E> toAdd=new Node<E>(data);
+        Node<E> toAdd=new Node<>(data);
         if(isEmpty()){
             head=toAdd;
             return;
