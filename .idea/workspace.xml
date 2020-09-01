@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/P5_MidToBegining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lists/linkedLists/myLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/linkedLists/myLinkedList.java" afterDir="false" />
     </list>
@@ -70,7 +71,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MainMyLinkedList">
+  <component name="RunManager" selected="Application.P5_MidToBegining">
     <configuration name="MainLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lists.linkedLists.MainLinkedList" />
       <module name="Tutorials" />
@@ -110,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2_CandyProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P2_CandyProblem" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P3_Sum3_plus_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeProblems.P3_Sum3_plus_33" />
       <module name="Tutorials" />
@@ -136,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P5_MidToBegining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P5_MidToBegining" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5_MidToBegining" />
         <item itemvalue="Application.MainMyLinkedList" />
         <item itemvalue="Application.MainLinkedList" />
         <item itemvalue="Application.MyArrayList" />
         <item itemvalue="Application.P3_Sum3_plus_33" />
-        <item itemvalue="Application.P2_CandyProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598787311378</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new">
+      <created>1598788417767</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1598788417767</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new">
+      <created>1598788457318</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1598788457318</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,22 +354,22 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1598787893349">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1598890309255">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598787893349" />
-    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1598787893347">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1598890309255" />
+    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1598890309255">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598787893347" />
-    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1598787893346">
+    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1598890309255" />
+    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1598890309254">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598787893346" />
-    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1598787893348">
+    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1598890309254" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1598890309255">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598787893348" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1598890309255" />
     <state width="587" height="198" key="GridCell.Tab.1.bottom" timestamp="1592338622722">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -403,10 +418,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="347" y="163" key="run.anything.popup/0.27.1366.697@0.27.1366.697" timestamp="1597937723194" />
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1598107449251">
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1598886137527">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1598107449251" />
+    <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1598886137527" />
     <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597234460976">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
