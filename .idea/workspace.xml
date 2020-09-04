@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/BracketBalance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracticeProblems/P5_MidToBegining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P5_MidToBegining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lists/linkedLists/myLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/linkedLists/myLinkedList.java" afterDir="false" />
@@ -71,39 +72,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.NormalPract">
-    <configuration name="Main2StackL_L" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists.vectorAndStacks.Main2StackL_L" />
+  <component name="RunManager" selected="Application.BracketBalance">
+    <configuration name="BracketBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.BracketBalance" />
       <module name="Tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lists.vectorAndStacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists.vectorAndStacks.MainClass" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lists.vectorAndStacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists.linkedLists.MainMyLinkedList" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lists.linkedLists.*" />
+          <option name="PATTERN" value="PracticeProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +99,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5_MidToBegining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P5_MidToBegining" />
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedForLoops.Pattern6" />
       <module name="Tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="nestedForLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedForLoops.Pattern7" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nestedForLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedForLoops.PatternOfNumber" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nestedForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BracketBalance" />
         <item itemvalue="Application.NormalPract" />
-        <item itemvalue="Application.Main2StackL_L" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.P5_MidToBegining" />
-        <item itemvalue="Application.MainMyLinkedList" />
+        <item itemvalue="Application.Pattern7" />
+        <item itemvalue="Application.PatternOfNumber" />
+        <item itemvalue="Application.Pattern6" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598949453273</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new">
+      <created>1599156586499</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599156586499</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,22 +369,22 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="1320" height="198" key="GridCell.Tab.0.bottom" timestamp="1599126026436">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1599205919102">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="198" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1599126026436" />
-    <state width="1320" height="198" key="GridCell.Tab.0.center" timestamp="1599126026436">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1599205919102" />
+    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1599205919102">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="198" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1599126026436" />
-    <state width="1320" height="198" key="GridCell.Tab.0.left" timestamp="1599126026436">
+    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1599205919102" />
+    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1599205919101">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="198" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1599126026436" />
-    <state width="1320" height="198" key="GridCell.Tab.0.right" timestamp="1599126026436">
+    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1599205919101" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1599205919102">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="198" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1599126026436" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1599205919102" />
     <state width="1320" height="198" key="GridCell.Tab.1.bottom" timestamp="1599126026437">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -397,10 +405,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1598638665654" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598949467750">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599156600401">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1598949467750" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1599156600401" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -421,10 +429,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="0" y="27" width="1356" height="697" key="new project wizard/0.27.1366.697@0.27.1366.697" timestamp="1597493135157" />
-    <state x="347" y="163" key="run.anything.popup" timestamp="1599057433880">
+    <state x="347" y="163" key="run.anything.popup" timestamp="1599202213410">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="347" y="163" key="run.anything.popup/0.27.1366.697@0.27.1366.697" timestamp="1599057433880" />
+    <state x="347" y="163" key="run.anything.popup/0.27.1366.697@0.27.1366.697" timestamp="1599202213410" />
     <state x="682" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1599042737962">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
