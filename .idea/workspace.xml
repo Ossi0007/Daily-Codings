@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/BracketBalance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/P5_MidToBegining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P5_MidToBegining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P7_ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/BracketBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/P6_BracketBalance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,32 +72,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.P5_MidToBegining">
-    <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.ArrayRotation" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BracketBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.BracketBalance" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.MainClass" />
       <module name="Tutorials" />
@@ -137,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P6_BracketBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P6_BracketBalance" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P7_ArrayRotation" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.P5_MidToBegining" />
-        <item itemvalue="Application.ArrayRotation" />
+        <item itemvalue="Application.P7_ArrayRotation" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.BracketBalance" />
+        <item itemvalue="Application.P6_BracketBalance" />
         <item itemvalue="Application.NormalPract" />
       </list>
     </recent_temporary>
@@ -327,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599206291995</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="new">
+      <created>1599473608455</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599473608455</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,22 +382,22 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1599473470389">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1599473541687">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1599473470389" />
-    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1599473470388">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1599473541687" />
+    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1599473541686">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1599473470388" />
-    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1599473470388">
+    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1599473541686" />
+    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1599473541686">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1599473470388" />
-    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1599473470389">
+    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1599473541686" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1599473541686">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1599473470389" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1599473541686" />
     <state width="1320" height="198" key="GridCell.Tab.1.bottom" timestamp="1599126026437">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -411,10 +418,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1598638665654" />
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599206305400">
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599473618706">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1599206305400" />
+    <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.697@0.27.1366.697" timestamp="1599473618705" />
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597943656748">
       <screen x="0" y="27" width="1366" height="697" />
     </state>

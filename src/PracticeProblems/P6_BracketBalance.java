@@ -3,7 +3,7 @@ package PracticeProblems;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BracketBalance {
+public class P6_BracketBalance {
 
     public static void balance(int t){
         while (t-- !=0){
