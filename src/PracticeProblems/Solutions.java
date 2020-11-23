@@ -2,7 +2,7 @@ package PracticeProblems;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solutions {
     public static void main(String[] args) {
         try(Scanner sc=new Scanner(System.in)){
             int cases=sc.nextInt();

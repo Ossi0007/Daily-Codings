@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="576a24b0-9c01-418f-9c5c-2ac0ffb83244" name="Default Changelist" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/Solutions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +68,22 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.Robot">
+  <component name="RunManager">
+    <configuration name="Largest2DigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.Largest2DigitNumber" />
+      <module name="Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.ArrayDeque.MainClass" />
       <module name="Tutorials" />
@@ -89,19 +103,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="queue.priorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P5_MidToBegining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.P5_MidToBegining" />
-      <module name="Tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Largest2DigitNumber" />
         <item itemvalue="Application.Robot" />
         <item itemvalue="Application.kbflfl" />
         <item itemvalue="Application.MainClass (2)" />
         <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.P5_MidToBegining" />
       </list>
     </recent_temporary>
   </component>
@@ -363,45 +364,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="242" width="251" height="273" key="#Notifications" timestamp="1595747044503">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="552" y="242" width="251" height="273" key="#Notifications/0.27.1366.697@0.27.1366.697" timestamp="1595747044503" />
-    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597231520969">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="141" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.697@0.27.1366.697" timestamp="1597231520969" />
     <state x="832" y="62" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1598020368055">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="832" y="62" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.697@0.27.1366.697" timestamp="1598020368055" />
-    <state x="130" y="85" width="1092" height="594" key="DiffContextDialog" timestamp="1597235463756">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="130" y="85" width="1092" height="594" key="DiffContextDialog/0.27.1366.697@0.27.1366.697" timestamp="1597235463756" />
     <state x="882" y="275" width="284" height="207" key="Github.ShareDialog" timestamp="1597847518116">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="882" y="275" width="284" height="207" key="Github.ShareDialog/0.27.1366.697@0.27.1366.697" timestamp="1597847518116" />
-    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog" timestamp="1597234306323">
-      <screen x="0" y="27" width="1366" height="697" />
+    <state width="1286" height="102" key="GridCell.Tab.0.bottom" timestamp="1606113244416">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="825" y="55" width="388" height="647" key="Github.UntrackedFilesDialog/0.27.1366.697@0.27.1366.697" timestamp="1597234306323" />
-    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1600081592680">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
+    <state width="1286" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606113244416" />
     <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1600081592680" />
-    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1600081592679">
-      <screen x="0" y="27" width="1366" height="697" />
+    <state width="1286" height="102" key="GridCell.Tab.0.center" timestamp="1606113244415">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1286" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606113244415" />
     <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1600081592679" />
-    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1600081592678">
-      <screen x="0" y="27" width="1366" height="697" />
+    <state width="1286" height="102" key="GridCell.Tab.0.left" timestamp="1606113244415">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1286" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606113244415" />
     <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1600081592678" />
-    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1600081592679">
-      <screen x="0" y="27" width="1366" height="697" />
+    <state width="1286" height="102" key="GridCell.Tab.0.right" timestamp="1606113244415">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1286" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606113244415" />
     <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1600081592679" />
     <state width="1320" height="198" key="GridCell.Tab.1.bottom" timestamp="1599126026437">
       <screen x="0" y="27" width="1366" height="697" />
@@ -419,9 +408,10 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state width="1320" height="198" key="GridCell.Tab.1.right/0.27.1366.697@0.27.1366.697" timestamp="1599126026437" />
-    <state x="344" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1598638665654">
-      <screen x="0" y="27" width="1366" height="697" />
+    <state x="344" y="0" width="1012" height="697" key="SettingsEditor" timestamp="1605985281402">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="344" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605985281402" />
     <state x="344" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1598638665654" />
     <state x="278" y="111" width="806" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599474086805">
       <screen x="0" y="27" width="1366" height="697" />
@@ -431,14 +421,6 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="786" y="260" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.697@0.27.1366.697" timestamp="1597943656748" />
-    <state x="783" y="127" width="483" height="497" key="dock-window-1" timestamp="1595400519327">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="783" y="127" width="483" height="497" key="dock-window-1/0.27.1366.697@0.27.1366.697" timestamp="1595400519327" />
-    <state x="783" y="127" width="483" height="497" key="dock-window-2" timestamp="1595400519327">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="783" y="127" width="483" height="497" key="dock-window-2/0.27.1366.697@0.27.1366.697" timestamp="1595400519327" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1598105056541">
       <screen x="0" y="27" width="1366" height="697" />
     </state>
@@ -455,9 +437,5 @@
       <screen x="0" y="27" width="1366" height="697" />
     </state>
     <state x="682" y="45" width="672" height="678" key="search.everywhere.popup/0.27.1366.697@0.27.1366.697" timestamp="1599042737962" />
-    <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597234460976">
-      <screen x="0" y="27" width="1366" height="697" />
-    </state>
-    <state x="516" y="169" width="324" height="419" key="svn.repositoryBrowser/0.27.1366.697@0.27.1366.697" timestamp="1597234460976" />
   </component>
 </project>
