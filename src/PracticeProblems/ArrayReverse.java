@@ -2,7 +2,7 @@ package PracticeProblems;
 
 import java.util.Scanner;
 
-public class Iicfbiw {
+public class ArrayReverse {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
